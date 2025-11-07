@@ -32,8 +32,8 @@ Efficient DOM updates via batched rendering (reduces CPU/GPU load).
 Optimized for modern browsers supporting:
 getUserMedia
 AudioContext
-
 Canvas API
+
 🔒 Privacy & Permissions
 
 ✅ Local Processing Only:
