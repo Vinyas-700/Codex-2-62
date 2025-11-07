@@ -23,7 +23,7 @@ All computed in 200ms intervals for smooth feedback.
 0.3 * VolumeVariation + 0.4 * FrequencyRatio + 0.3 * EnergyLevel
 + 0.3 * (VSA Deviation)
 
-  🔹 3. Optimization
+🔹 3. Optimization
 Calibration phase (3s) establishes individual baselines.
 Stress deviation computed using z-score normalization for personal sensitivity.
 Efficient DOM updates via batched rendering (reduces CPU/GPU load).
